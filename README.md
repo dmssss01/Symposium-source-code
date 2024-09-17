@@ -1,5 +1,6 @@
 <h1>CONRIBUTORS: </h1> 
 <h2>link to paper : https://www.taylorfrancis.com/chapters/edit/10.1201/9781003489443-9/developing-machine-learning-model-hai-risk-prediction-using-ehr-data-sriya-das-mohapatra-naveen-kumar-dishant-yadav-swati-sucharita-ray-jyoti-ranjan-bharat-sahu </h2>
+
 SRIYA DAS MOHAPATRA ,NAVEEN KUMAR ,ANJALI PANT ,DISHANT YADAV
 
 
